@@ -1,0 +1,1 @@
+start javaw -jar shosho\dist\shosho.jar
